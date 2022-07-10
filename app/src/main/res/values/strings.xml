@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TbcTask9</string>
+    <string name="registration">Registration</string>
+    <string name="add_user">add user</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="update">Update</string>
+    <string name="update_user">update user</string>
+</resources>
